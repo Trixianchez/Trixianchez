@@ -39,13 +39,6 @@ New Era University — 2024 – Present
 
 ---
 
-## GitHub Stats
-<p align="center"
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trixianchez&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## Contact
 <p>
   <a href="mailto:wackylltrixian@gmail.com">
