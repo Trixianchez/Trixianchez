@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_PHOTO_URL](https://github.com/account" alt="Trixian Wackyll C. Granado" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/247096115?s=400&u=bfa04bf3502046cb8cab8fc1ec73356be1d6fa75&v=4" alt="Trixian Wackyll C. Granado" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Trixian Wackyll C. Granado</h1>
@@ -40,10 +40,8 @@ New Era University — 2024 – Present
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" />
+<p align="center"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trixianchez&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
