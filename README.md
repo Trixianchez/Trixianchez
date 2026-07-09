@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I'm a passionate IT student at New Era University with a keen interest in web development, database management, and software solutions. Alongside my studies, I work as a bookkeeper — bridging the gap between technology and finance. I thrive on solving real-world problems through code and continuous learning.
+I'm a passionate IT student at New Era University with a keen interest in web development, database management, and software solutions. Alongside my studies, I work as a bookkeeper and I'm trying to be better on both technology and finance. I like to work on solving real-world problems using code and continuous learning.
 
 ---
 
